@@ -50,10 +50,6 @@ VITE_AZURE_TENANT_ID=your-azure-tenant-id-here
 
 # API Configuration
 VITE_API_GATEWAY_URL=your-api-gateway-url-here
-
-# Optional: Bitbucket Integration
-VITE_BITBUCKET_TOKEN=your-bitbucket-token-here
-VITE_BITBUCKET_USERNAME=your-username
 ```
 
 ## 🏃‍♂️ Running the Application
